@@ -5,11 +5,15 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Content:
+   :caption: Content
 
    pages/chapter_one.rst
    pages/another_page.rst
    
+.. toctree::
+   :maxdepth: 2
+   :caption: Details
+
    pages/chapter_two.rst
 
 Indices and tables
