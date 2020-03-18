@@ -15,6 +15,12 @@ First steps with readthedocs
 1. `cd docs`
 1. `sphinx-quickstart`
 
+Add option
+```
+master_doc = 'index'
+```
+to `conf.py` to point the readthedocs site generator to `index.rst`, when building and deploying the site.
+
 ## Writing the documentation
 
 Some remarks in no particular order:
