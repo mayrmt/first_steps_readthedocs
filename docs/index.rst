@@ -8,11 +8,10 @@
    :caption: Content
 
    pages/chapter_one.rst
-   pages/another_page.rst
    
 .. toctree::
    :maxdepth: 2
-   :caption: Details
+   :caption: Advanced Topics
 
    pages/chapter_two.rst
 
@@ -20,7 +19,8 @@
    :maxdepth: 3
    :caption: Expert Tutorials
 
-   pages/expert_tutorials.rst
+   pages/multigrid_for_multiphysics.rst
+   pages/user_api.rst
 
 Indices and tables
 ==================

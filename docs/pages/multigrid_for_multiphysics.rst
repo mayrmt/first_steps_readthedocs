@@ -576,4 +576,3 @@ and switches to Coordinates provided by the ``myTransferCoordinatesFact`` on the
    and ``myInputCoordsFact`` in this example.
    Note: you can always use the ``dependency for`` keyword to extend/change factory dependencies in the xml file.
 
-
