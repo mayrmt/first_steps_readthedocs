@@ -16,6 +16,12 @@
 
    pages/chapter_two.rst
 
+.. toctree::
+   :maxdepth: 3
+   :caption: Expert Tutorials
+
+   pages/expert_tutorials.rst
+
 Indices and tables
 ==================
 
