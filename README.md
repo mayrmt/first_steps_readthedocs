@@ -1,3 +1,5 @@
+[![Documentation Status](https://readthedocs.org/projects/first-steps/badge/?version=latest)](https://first-steps.readthedocs.io/en/latest/?badge=latest)
+
 # first_steps_readthedocs
 First steps with readthedocs
 
